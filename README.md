@@ -28,7 +28,7 @@ Elige la versión compatible con tu sistema operativo:
 
 - [🪟 Windows (EXE)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS-amd64-installer.exe.zip)
 - [🍎 macOS (App)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS.app.zip)
-- [🐧 Linux (AppImage)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS.pkg.zip)
+- [🐧 Linux (Pkg)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS.pkg.zip)
 
 ---
 
