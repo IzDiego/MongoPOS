@@ -14,6 +14,9 @@ MongoPOS es un sistema de punto de venta completo, moderno y eficiente, diseñad
 - **Gestión de Usuarios** - Autenticación, roles, permisos
 - **Configuración** - Parámetros del sistema, datos de la empresa
 
+- **Backups en la nube** - Configuración para almacenar y sincronizar con supabase
+
+
 ### **Características Destacadas:**
 - 💻 Interfaz moderna con diseño responsive
 - 🔔 Centro de notificaciones en tiempo real
@@ -26,9 +29,10 @@ MongoPOS es un sistema de punto de venta completo, moderno y eficiente, diseñad
 
 Elige la versión compatible con tu sistema operativo:
 
-- [🪟 Windows (EXE)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS-amd64-installer.exe.zip)
-- [🍎 macOS (App)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS.app.zip)
-- [🐧 Linux (Pkg)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS.pkg.zip)
+- [🪟 Windows](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS-windows-v1.1.2.exe)
+- [🪟 Windows Installer](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS-windows-installer-v1.1.2.exe)
+- [🍎 macOS](https://github.com/IzDiego/point-of-sale-desktop/releases/download/v1.1.2/MongoPOS-macos-v1.1.2.dmg)
+- [🐧 Linux)](https://github.com/IzDiego/MongoPOS/releases/download/1.1.0/MongoPOS-linux-v1.1.2)
 
 ---
 
