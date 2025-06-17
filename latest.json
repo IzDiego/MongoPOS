@@ -1,0 +1,8 @@
+{
+  "version": "v1.2.0",
+  "urls": {
+    "windows": "https://github.com/IzDiego/point-of-sale-desktop/releases/download/v1.2.0/MongoPOS-windows-v1.2.0.exe",
+    "macos": "https://github.com/IzDiego/point-of-sale-desktop/releases/download/v1.2.0/MongoPOS-macos-v1.2.0.dmg",
+    "linux": "https://github.com/IzDiego/point-of-sale-desktop/releases/download/v1.2.0/MongoPOS-linux-v1.2.0"
+  }
+}
