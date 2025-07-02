@@ -1,9 +1,13 @@
 {
-  "version": "v1.3.0",
+  "version": "v1.3.5",
+  "build_date": "2025-07-02T22:27:19Z",
+  "zipline_info": "Files are hosted on Zipline CDN for faster downloads",
   "urls": {
-    "windows": "https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-windows-v1.3.0.exe",
-    "windows_installer": "https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-windows-installer-v1.3.0.exe",
-    "macos": "https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-macos-v1.3.0.dmg",
-    "linux": "https://github.com/IzDiego/MongoPOS/releases/download/v1.3.0/MongoPOS-linux-v1.3.0"
-  }
+    "windows": "https://zipline-api.forgemasters.dev//u/[ID].zip",
+    "windows_installer": "https://zipline-api.forgemasters.dev//u/[ID].zip",
+    "macos": "https://zipline-api.forgemasters.dev//u/[ID].zip",
+    "linux": "https://zipline-api.forgemasters.dev//u/[ID].zip"
+  },
+  "github_release": "https://github.com/IzDiego/point-of-sale-desktop/releases/tag/v1.3.5",
+  "changelog": "See GitHub release for detailed changelog"
 }
