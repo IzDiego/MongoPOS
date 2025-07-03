@@ -83,7 +83,7 @@
 
 ## 📦 Descargas
 
-**Versión actual: v1.3.5**
+**Versión actual: v1.3.11**
 
 Elige la versión compatible con tu sistema operativo:
 
