@@ -1,13 +1,13 @@
 {
-  "version": "v1.3.14",
-  "build_date": "2025-07-03T03:35:03Z",
+  "version": "v1.3.15",
+  "build_date": "2025-07-03T07:32:05Z",
   "zipline_info": "Files are hosted on Zipline CDN for faster downloads",
   "urls": {
-    "windows": "https://zipline-api.forgemasters.dev/u/windows-fallback.zip",
-    "windows_installer": "https://zipline-api.forgemasters.dev/u/windows-installer-fallback.zip",
-    "macos": "https://zipline-api.forgemasters.dev/u/macos-fallback.zip",
-    "linux": "https://zipline-api.forgemasters.dev/u/linux-fallback.zip"
+    "windows": "http://zipline-api.forgemasters.dev/u/BLLZ8L.zip",
+    "windows_installer": "http://zipline-api.forgemasters.dev/u/ByNrpu.zip",
+    "macos": "http://zipline-api.forgemasters.dev/u/tpGnNR.zip",
+    "linux": "http://zipline-api.forgemasters.dev/u/FeLHKl.zip"
   },
-  "github_release": "https://github.com/IzDiego/MongoPOS/releases/tag/v1.3.14",
+  "github_release": "https://github.com/IzDiego/MongoPOS/releases/tag/v1.3.15",
   "changelog": "See GitHub release for detailed changelog"
 }
